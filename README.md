@@ -3,7 +3,7 @@
 **Version:** 0.1 (Free Test Version)  
 **Developer:** Kelvin Magochi  
 **Contact:** mwangikelvin278@gmail.com | +254718265708  
-**Website:** www.webninjaafrica.com
+**Website:** https://magochi-pos.webninjaafrica.com
 
 ---
 
